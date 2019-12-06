@@ -1,0 +1,9 @@
+{
+  "prettier.eslintIntegration": true,
+  "rules": {
+    "no-console": false,
+    "member-access": false,
+    "jsx-no-lambda": false,
+    "jsx-boolean-value": false
+  }
+}

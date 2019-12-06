@@ -1,0 +1,14 @@
+
+{
+  "data":[
+    { "label": "Escolher Setor", "value": null },
+    { "label": "Fiscal", "value": "Fiscal" },
+    { "label": "Contábil", "value": "Contábil" },
+    { "label": "Pessoal", "value": "Pessoal" },
+    { "label": "Comercial", "value": "Comercial" },
+    { "label": "Diretoria", "value": "Diretoria" }
+    ]
+
+   
+  
+}

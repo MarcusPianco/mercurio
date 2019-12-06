@@ -1,0 +1,9 @@
+{
+  "ecmaVersion": "7",
+  "libs": ["browser"],
+  "loadEagerly": ["app/**/*.js"],
+  "plugins": {
+    "node_express": {}
+  },
+  "dontLoad": []
+}
